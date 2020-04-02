@@ -1,0 +1,15 @@
+{
+  "name": "hello-js-action-alu0101111254",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Bodson <alu0101111254@ull.edu.es> (https://github.com/alu0101111254)",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
